@@ -1,13 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+这里是王鑫的github+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-我是王鑫，一名来自中国的python程序员
+我是王鑫，一名来自中国的python开发者
 
 ---
 
 ### ⚡️ A quick introduction(快速介绍)
 
-- 🔭 我目前就职于 [筑龙公司](http://www.zhulong.com.cn/)，主要参与和负责 [标书检查](http://www.zhulong.com.cn/products/intelligencetbws/examination) 项目.
-- 🌱 我现在正在学习django、wagtail cms。
+- 🌱 我现在正在学习django、flask、sklearn。
 - 💼 我是一位终身学习者，热爱编程。
 - 🤟🏻 我喜欢拍摄教学视频、健身、游泳！
 
